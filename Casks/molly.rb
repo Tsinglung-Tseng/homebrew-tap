@@ -1,6 +1,6 @@
 cask "molly" do
   version "1.0.0"
-  sha256 "accd635335040a2e6a41cb45b337ab20e748834af86424ed377e529a1c3c57ec"
+  sha256 "e741fb873fd2aeb862767357799f98ec6155d363366a940037f11faced0604fd"
 
   url "https://github.com/Tsinglung-Tseng/molly/releases/download/v#{version}/Molly-#{version}.zip"
   name "Molly"
